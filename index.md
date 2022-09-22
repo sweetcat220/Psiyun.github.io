@@ -51,6 +51,7 @@
 
   <img src="./img/관련이미지-주민.png">
 - 동영상
+
   [![](./img/동영상.png)](https://youtu.be/7IDfb0kU4ws)
 
 <br><br>
